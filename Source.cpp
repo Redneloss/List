@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "List.cpp"  //it has to work with #include "List.h", bun for some strange reason it doesn`t
+#include "List.cpp"  //it has to work with #include "List.h", but for some strange reason it doesn`t
 
 using namespace std;
 
